@@ -1,0 +1,20 @@
+body {
+    background-image: url("../Images/majestic-bull-elk-and-full-moon-rise-mark-miller-photos.jpeg");
+}
+h2{ 
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1{
+    color: black;
+    font-size: xx-large;
+}
+.whitetext{
+    color: rgb(250, 248, 248);
+}
+.blacktext{
+    color:black;
+}
+.video{
+    font-size: larger;
+}

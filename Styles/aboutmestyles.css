@@ -1,0 +1,36 @@
+body {
+    background-image: url("../images/Stag\ Deer.jpeg");
+}
+    .blacktext{
+        color: black; }
+        
+    li{ 
+        font-family: 'Times New Roman', Times, serif;
+    text-align: left;}  
+    ul{
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        text-align: left;
+    } 
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      }
+     ol{
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        text-align: left;
+     } 
+     .boldtext{
+         font-weight: bold;
+         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     }
+     .contact{
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        text-align: left;
+        font-size: medium;
+     }
+     .number{
+         font-family: 'Times New Roman', Times, serif;
+         text-align: left;
+     }

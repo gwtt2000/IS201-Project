@@ -1,0 +1,39 @@
+body{
+    background-image: url("../Images/deser\ bighorn.jpeg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+.header{
+    padding: 75px;
+  text-align: center;
+  background: #000000;
+  color:rgb(201, 165, 112);
+  font-size: 25px;
+}
+h1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+li{
+    float:left;
+    padding: 35px;
+    color:rgb(201, 165, 112);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+.footer{
+    padding: 75px;
+    text-align: center;
+    background: #000000;
+    color:rgb(201, 165, 112);
+    font-size: 25px;
+}
+.centertext{
+    text-align: center;
+}
+.lefttext{
+    text-align: left;
+}
